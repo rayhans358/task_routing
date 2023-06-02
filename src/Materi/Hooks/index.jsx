@@ -2,7 +2,7 @@
 // import Effect from "./pembahasan/Effect"
 // import Identity from "./pembahasan/Identity";
 import { useState } from "react";
-import { useToggle } from "./pembahasan/hook/useToggle";
+import { useToggle } from "./pembahasan/hook/useToogle";
 
 const Hooks = () => {
   let [label, setLabel] = useState('OFF');
