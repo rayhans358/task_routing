@@ -6,6 +6,10 @@
   margin-right: 10px;
 }
 
+.mr3 {
+  margin-right: 30px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
